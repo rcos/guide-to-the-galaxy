@@ -1,6 +1,6 @@
 # AWS
 
-### (Homepage)[https://aws.amazon.com]
+### [Homepage](https://aws.amazon.com)
 
 AWS (Amazon Web Services) is one of the largest cloud providers.
 
